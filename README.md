@@ -1,5 +1,8 @@
-### Hi there 👋
+# Hi there 👋, I'm Sébastien Han!
 
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=leseb&show_icons=true&theme=cobalt" alt="leseb"/> 
+</p>
 <!--
 **leseb/leseb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
